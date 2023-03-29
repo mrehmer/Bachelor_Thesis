@@ -1,6 +1,7 @@
 # Comparison of image generating models based on VQGAN and LDM
 
 This repository contains the scripts I used for my bachelor's thesis along with a description on how to reproduce the results.
+The images I generated can be found here: https://myshare.uni-osnabrueck.de/d/94702e0e7a2340508fae/
 
 ### Sample from VQGAN
 To sample 50 images of each class of the ImageNet dataset from the VQGAN, one needs to clone the original repository: https://github.com/CompVis/taming-transformers and place the `sample_VQGAN.py` script in the same folder and execute it.
